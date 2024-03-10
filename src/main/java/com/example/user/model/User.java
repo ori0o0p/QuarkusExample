@@ -1,6 +1,6 @@
-package com.example.model;
+package com.example.user.model;
 
-import com.example.dto.UpdateUser;
+import com.example.user.dto.UpdateUser;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 import io.quarkus.mongodb.panache.reactive.ReactivePanacheMongoEntity;
 import io.quarkus.mongodb.panache.reactive.ReactivePanacheMongoEntityBase;

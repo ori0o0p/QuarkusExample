@@ -1,7 +1,7 @@
-package com.example.resource;
+package com.example.user.resource;
 
-import com.example.dto.UpdateUser;
-import com.example.model.User;
+import com.example.user.dto.UpdateUser;
+import com.example.user.model.User;
 import io.smallrye.mutiny.Multi;
 import io.smallrye.mutiny.Uni;
 import jakarta.ws.rs.*;
